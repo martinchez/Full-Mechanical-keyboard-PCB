@@ -1,6 +1,7 @@
 # Custom Mechanical Keyboard PCB Design
 
 This repository contains the design files and resources for a custom mechanical keyboard PCB created using KiCad. The project includes schematics, PCB layout, and production files, aiming to make a fully functional and customizable mechanical keyboard.
+![PCB Image](keyboard.jpg)
 
 ## Project Overview
 
